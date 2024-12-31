@@ -1,5 +1,21 @@
-template-repository (1.0-1) unstable; urgency=medium
+bar-cursor-el (2.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
+  * Rebuild against dh-elpa 2.1.5.
+    Upload pushed to dgit-repos but not salsa.
+    See <https://lists.debian.org/debian-emacsen/2024/07/msg00077.html>.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Sean Whitton <spwhitton@spwhitton.name>  Fri, 26 Jul 2024 11:49:04 +0900
+
+bar-cursor-el (2.0-1.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Fri, 01 Jan 2021 16:42:53 +0100
+
+bar-cursor-el (2.0-1) unstable; urgency=medium
+
+  * Initial split from emacs-goodies-el (See #899221)
+
+ -- David Bremner <bremner@debian.org>  Sat, 28 Jul 2018 17:48:14 +0800
